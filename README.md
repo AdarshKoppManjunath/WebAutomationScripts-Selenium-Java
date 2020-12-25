@@ -1,6 +1,6 @@
 # WebAutomationScripts-Selenium-Java
 
-This repository coonsists of web automation scripts developed using Selenium and JAVA. 
+This repository consists of web automation scripts developed using Selenium and JAVA. 
 
 
 Dveloped scripts as of now:
