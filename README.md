@@ -3,7 +3,13 @@
 This repository consists of web automation scripts developed using Selenium and JAVA. 
 
 
-Dveloped scripts as of now:
-  1) Static Drop Down. 
-  2) Auto Suggestion Drop Down.
-  3) Dynamic Drop Down. 
+
+1. AssertionsUsage.java
+
+2. AutoSuggestiveDropDown.java
+
+3. CheckBox.java
+
+4. DynamicDropDown.java
+
+5. StaticDropDown.java
